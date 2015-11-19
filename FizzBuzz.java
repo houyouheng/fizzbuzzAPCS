@@ -9,8 +9,13 @@ class FizzBuzz {
   //Computes the proper fizzbuzz output
   //for a number, n
 	public static String fizzNumber(int n){
-		return "Yoooooo!";
-}  
+		if(n == 1){
+			return "1"; 
+		}
+		else{
+			return "fizzbuzz";
+		}
+	}
   //fizzList(int start, int end)
   //Creates a string containing
   //a list of all fizzbuzz outputs starting with

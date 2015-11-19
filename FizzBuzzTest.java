@@ -12,7 +12,13 @@ class FizzBuzzTest {
 		}
 
 		//n=1
-		
+		if (FizzBuzz.fizzNumber(1).equals("1")){
+			System.out.println("Success; 1 => 1");
+		}
+		else {
+			System.out.println("Test failed for n=1!");
+		}
+
 		//n=3
 		//n=5
 		//n=15
