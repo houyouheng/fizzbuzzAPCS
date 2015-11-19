@@ -12,6 +12,7 @@ class FizzBuzzTest {
 		}
 
 		//n=1
+		
 		//n=3
 		//n=5
 		//n=15
