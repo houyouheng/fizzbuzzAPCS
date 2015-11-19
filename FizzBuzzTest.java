@@ -14,15 +14,15 @@ class FizzBuzzTest {
 		//n="-15"
 		//n="-10"
 	}
-	public static void main (String [] arg){
-
-	}
-	public static void fizzListTest(){
+		public static void fizzListTest(){
 		//start n=1 end=5
 		//start n=12 end=16
 		//start n=-2 end=2
 		//start n=10 end=5
 
 	}
-}
+	
+	public static void main (String [] arg){
 
+	}
+}
